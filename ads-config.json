@@ -1,5 +1,5 @@
 JSON
 {
-  "coupang_html": "<쿠팡 파트너스 배너 HTML 코드 또는 링크>",
+  "coupang_html": "<iframe src="https://coupa.ng/cqjWYP" width="120" height="240" frameborder="0" scrolling="no" referrerpolicy="unsafe-url"></iframe>",
   "google_ad_slot": "구글 애드센스 슬롯 ID 또는 광고 코드"
 }
